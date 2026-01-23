@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import GOSSTag from "../assets/GOSStag.png";
+import GOSSTag from "../assets/GOSSTag.png";
 
 export default function Navbar() {
   return (
