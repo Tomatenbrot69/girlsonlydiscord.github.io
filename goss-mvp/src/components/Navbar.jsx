@@ -8,13 +8,8 @@ export default function Navbar() {
         {/* Brand → Home */}
         <Link to="/" className="brand" aria-label="Go to homepage">
           <span className="brandText">Girls Only Study Space</span>
-
-          <img
-            src={GOSSTag}
-            alt="GOSS tag"
-            className="brandTag"
-          />
         </Link>
+        <p className="star">✦</p>
 
         {/* Navigation */}
         <nav className="navLinks" aria-label="Primary">
@@ -32,7 +27,7 @@ export default function Navbar() {
             target="_blank"
             rel="noreferrer"
           >
-            Join
+            Join GOSS
           </a>
         </nav>
       </div>
