@@ -166,7 +166,6 @@ html, body {
   color: var(--brand-cream);
   padding: 14px 20px;
   font-size: 22px;
-  border: var(--brand-cream) solid 2px;
 }
 
 /* Discord icon inside join button */
@@ -271,7 +270,6 @@ html, body {
 }
 
 .btnDiscord{
-  border: var(--brand-cream) solid 2px;
   color: var(--brand-cream);
   padding: 14px 20px;
   font-size: 22px;

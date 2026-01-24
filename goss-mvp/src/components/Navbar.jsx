@@ -9,7 +9,6 @@ export default function Navbar() {
         <Link to="/" className="brand" aria-label="Go to homepage">
           <span className="brandText">Girls Only Study Space</span>
         </Link>
-        <p className="star">✦</p>
 
         {/* Navigation */}
         <nav className="navLinks" aria-label="Primary">
